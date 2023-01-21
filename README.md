@@ -31,7 +31,7 @@
 <!--<img align="center" alt="Duolingo" src=""/>-->
 </div>
 
-![Snake animation](https://github.com/1DevMatheus/1DevMatheus/blob/output/github-contribution-grid-snake.svg)
+<--![Snake animation](https://github.com/1DevMatheus/1DevMatheus/blob/output/github-contribution-grid-snake.svg)-->
 
 <!--
 **1DevMatheus/1DevMatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
