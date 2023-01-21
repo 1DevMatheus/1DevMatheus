@@ -7,7 +7,8 @@
 [![Social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1DevMatheus)
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-da-silva-aba405171/?original_referer=)
 
-![Matheus S. Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=1DevMatheus&show_icons=true&theme=midnight-purple)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1DevMatheus&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+![Matheus S. Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=1DevMatheus&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1DevMatheus&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=1DevMatheus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
