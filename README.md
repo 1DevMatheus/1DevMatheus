@@ -10,11 +10,11 @@
 ![Matheus S. Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=1DevMatheus&show_icons=true&theme=transparent)[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=1DevMatheus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1DevMatheus)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1DevMatheus)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=1DevMatheus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=1DevMatheus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 ### Tecnologias que uso no meu dia a dia 👇
