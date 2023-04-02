@@ -7,7 +7,10 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-matheus-oliveira)
 
 <div>
- <a style="text-decoration: none; font-size: 80px; font-weight: bold; font-style: italic; color: #fff; background-color: aqua; padding: 10px;border-radius: 5px;" href='https://1devmatheus.github.io/Portifolio1DevMatheus/'>P o r t i f o l i o</a>
+ <a style="text-decoration: none; font-size:80px; margin-bottom;10%; font-weight: bold; font-style: italic; color: #fff; background-color: aqua; padding: 10px;border-radius: 5px;" href='https://1devmatheus.github.io/Portifolio1DevMatheus/'>P o r t i f o l i o</a>
+</div>
+
+<div>
 </div>
 
 ![Matheus S. Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=1DevMatheus&theme=dark&show_icons=true)[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=1DevMatheus&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
