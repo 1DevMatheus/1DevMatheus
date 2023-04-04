@@ -1,6 +1,7 @@
 ### Olá Eu Sou o Matheus S. Oliveira 😜🤘
 ### Sejam Muito Bem Vindos Ao Meu GitHub ❤️💻
 
+<hr />
 
 [![Contatos](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Matheus-Oliveira/100005086082994/)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_ink_tattoo/)
@@ -9,8 +10,8 @@
 <div>
  <a style="text-decoration: none; font-size:80px; margin-bottom;10%; font-weight: bold; font-style: italic; color: #fff; background-color: aqua; padding: 10px;border-radius: 5px;" href='https://1devmatheus.github.io/Portifolio1DevMatheus/'>P o r t i f o l i o</a>
  <br></br>
+ <hr />
 </div>
-<br></br>
 <div>
 </div>
 
