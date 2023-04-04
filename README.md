@@ -3,7 +3,7 @@
 
 
 [![Contatos](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Matheus-Oliveira/100005086082994/)
-[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_ink_tattoo/)
+[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]target="blank"(https://www.instagram.com/matheus_ink_tattoo/)
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-matheus-oliveira)
 
 <div>
