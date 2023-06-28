@@ -8,7 +8,7 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-matheus-oliveira)
 
 <div>
- <a style="text-decoration: none; font-size:80px; margin-bottom;10%; font-weight: bold; font-style: italic; color: #fff; background-color: aqua; padding: 10px;border-radius: 5px;"target="_Blank" href='https://1devmatheus-portifolio.vercel.app/'>P o r t i f o l i o</a>
+ <a target="_blank" style="text-decoration: none; font-size:80px; margin-bottom;10%; font-weight: bold; font-style: italic; color: #fff; background-color: aqua; padding: 10px;border-radius: 5px;" href='https://1devmatheus-portifolio.vercel.app/'>P o r t i f o l i o</a>
  <br></br>
  <hr />
 </div>
